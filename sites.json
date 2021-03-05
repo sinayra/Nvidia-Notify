@@ -1,6 +1,6 @@
 [
   {
-    "url": "https://www.alternate.de/listing.xhtml?q=RTX%203060&sug=rtx%203060",
+    "url": "https://www.alternate.de/listing.xhtml?q=RTX+3060&sug=rtx+3060&lpf=50",
     "keyword": "Auf Lager",
     "alert": true,
     "method": "GET_URLLIB",
@@ -8,15 +8,7 @@
     "enabled": true
   },
   {
-    "url": "https://www.alternate.de/listing.xhtml?q=RTX+3060+Ti",
-    "keyword": "Auf Lager",
-    "alert": true,
-    "method": "GET_URLLIB",
-    "name": "Alternate 3060 Ti",
-    "enabled": true
-  },
-  {
-    "url": "https://www.caseking.de/pc-komponenten/grafikkarten/nvidia/geforce-rtx-3060",
+    "url": "https://www.caseking.de/pc-komponenten/grafikkarten/nvidia/geforce-rtx-3060?sPage=1&sPerPage=200",
     "keyword": "lagernd",
     "alert": true,
     "method": "GET_URLLIB",
@@ -24,7 +16,7 @@
     "enabled": true
   },
   {
-    "url": "https://www.caseking.de/pc-komponenten/grafikkarten/nvidia/geforce-rtx-3060-ti",
+    "url": "https://www.caseking.de/pc-komponenten/grafikkarten/nvidia/geforce-rtx-3060-ti?sPage=1&sPerPage=200",
     "keyword": "lagernd",
     "alert": true,
     "method": "GET_URLLIB",
