@@ -4,3 +4,4 @@ geckodriver.log
 notifier-test.py
 geckodriver
 geckodriver.exe
+.env
